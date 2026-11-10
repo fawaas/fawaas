@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Mohd Fawas — Developer"/>
+</p>
 # MOHD FAWAS®
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Developer+%7C+Creative+Technologist;Building+Digital+Experiences;Turning+Ideas+Into+Products;Think.+Create.+Build." />
