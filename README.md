@@ -66,10 +66,10 @@ A modern collection of calculators and digital conversion utilities.
 
 ## GITHUB ACTIVITY
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawaas&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=aaaaaa)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawaas&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=aaaaaa)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fawaas&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaas&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=FFFFFF" width="48%" />
+</p>
 ---
 
 ## LET'S CONNECT
