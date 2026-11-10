@@ -1,11 +1,13 @@
 <p align="center">
   <img src="github-banner.png" width="100%" alt="Mohd Fawas — Developer"/>
 </p>
-# MOHD FAWAS®
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Developer+%7C+Creative+Technologist;Building+Digital+Experiences;Turning+Ideas+Into+Products;Think.+Create.+Build." />
-</p>
+<h1 align="center">
+  MOHD <span>FAWAS®</span>
+</h1>
 
+<p align="center">
+  <code>D E V E L O P E R &nbsp; / &nbsp; C R E A T I V E &nbsp; T E C H N O L O G I S T</code>
+</p>
 ### Developer · Creative Technologist · Digital Creator
 
 Building digital experiences through code, creativity and experimentation.
@@ -54,14 +56,14 @@ A campus skill-sharing platform that connects students and allows them to exchan
 
 **Built with:** React · Flask · PostgreSQL · Python
 
-[Live Project](https://skillora-hazel-six.vercel.app/) · [GitHub Repository](https://github.com/fawaas/Skillora)
-
+[![Live Project](https://img.shields.io/badge/LIVE_PROJECT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://skillora-hazel-six.vercel.app/)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawaas/Skillora)
 ### 02 — CALCORA
 
 A modern collection of calculators and digital conversion utilities.
 
-[Live Project](https://calcora.vercel.app/) · [GitHub Repository](https://github.com/fawaas/Calcora)
-
+[![Live Project](https://img.shields.io/badge/LIVE_PROJECT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://calcora.vercel.app/)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawaas/Calcora)
 ---
 
 ## GITHUB ACTIVITY
@@ -77,16 +79,20 @@ A modern collection of calculators and digital conversion utilities.
 
 ---
 
-## LET'S CONNECT
-
-[GitHub](https://github.com/fawaas) · [LinkedIn](https://www.linkedin.com/in/mohammed-fawas-bb6140318/) · [Instagram](https://instagram.com/ft.fawaas/) · [Email](mailto:itsmefawaas@gmail.com)
-
-**THINK. CREATE. BUILD.**
-
-*Building digital experiences. One idea at a time.*
-
-© 2026 MOHD FAWAS®
-
+<p align="left">
+  <a href="https://github.com/fawaas">
+    <img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-fawas-bb6140318/">
+    <img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ft.fawaas/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-18181B?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:itsmefawaas@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 <!--
 **fawaas/fawaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
