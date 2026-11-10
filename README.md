@@ -1,20 +1,18 @@
-<p align="center">
-  <img src="github-banner.png" width="100%" alt="Mohd Fawas — Developer"/>
-</p>
-<h1 align="center">
-  MOHD <span>FAWAS®</span>
-</h1>
+ <h1 align="center">MOHD FAWAS®</h1>
 
 <p align="center">
-  <code>D E V E L O P E R &nbsp; / &nbsp; C R E A T I V E &nbsp; T E C H N O L O G I S T</code>
+  <code>DEVELOPER / CREATIVE TECHNOLOGIST / DIGITAL CREATOR</code>
 </p>
-### Developer · Creative Technologist · Digital Creator
 
-Building digital experiences through code, creativity and experimentation.
+<p align="center">
+  Building digital experiences through code, creativity and experimentation.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/fawaas)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawaas)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ft.fawaas/)
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">PORTFOLIO ↗</a> ·
+  <a href="https://github.com/fawaas">GITHUB ↗</a> ·
+  <a href="https://instagram.com/ft.fawaas/">INSTAGRAM ↗</a>
+</p>
 
 ---
 
