@@ -67,9 +67,14 @@ A modern collection of calculators and digital conversion utilities.
 ## GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fawaas&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawaas&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=FFFFFF" width="48%" />
+  <img src="https://img.shields.io/badge/Repositories-5-A78BFA?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Developer-Open%20to%20Build-8B5CF6?style=for-the-badge&labelColor=111111" />
 </p>
+
+<p align="center">
+  <i>Learning continuously. Building consistently. Creating with purpose.</i>
+</p>
+
 ---
 
 ## LET'S CONNECT
