@@ -1,4 +1,12 @@
- <h1 align="center">MOHD FAWAS®</h1>
+ <p align="center">
+  <img src="github-banner.png" width="100%" alt="MOHD FAWAS — Building Digital Experiences"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Developer+%2F+Creative+Technologist;Building+Digital+Experiences;Turning+Ideas+Into+Digital+Products;Think.+Create.+Build." alt="Typing animation"/>
+</p>
+
+<h1 align="center">MOHD FAWAS®</h1>
 
 <p align="center">
   <code>DEVELOPER / CREATIVE TECHNOLOGIST / DIGITAL CREATOR</code>
@@ -8,15 +16,9 @@
   Building digital experiences through code, creativity and experimentation.
 </p>
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL">PORTFOLIO ↗</a> ·
-  <a href="https://github.com/fawaas">GITHUB ↗</a> ·
-  <a href="https://instagram.com/ft.fawaas/">INSTAGRAM ↗</a>
-</p>
-
 ---
 
-## ABOUT ME
+<h2 align="center">01 / ABOUT ME</h2>
 
 I'm Mohd Fawas, a developer passionate about creating modern web applications, exploring technology and transforming ideas into meaningful digital products.
 
@@ -25,50 +27,76 @@ I'm Mohd Fawas, a developer passionate about creating modern web applications, e
 - Learning, experimenting and developing new ideas
 - Focused on clean interfaces and useful digital experiences
 
-## TECH STACK
+---
 
-**Frontend**
+<h2 align="center">02 / TECH STACK</h2>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**FRONTEND**
 
-**Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**BACKEND & DATABASE**
 
-**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**TOOLS**
 
-## FEATURED PROJECTS
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-### 01 — SKILLORA
+---
+
+<h2 align="center">03 / FEATURED PROJECTS</h2>
+
+### 01 — SKILLORA®
 
 A campus skill-sharing platform that connects students and allows them to exchange knowledge and skills.
 
 **Built with:** React · Flask · PostgreSQL · Python
 
-[![Live Project](https://img.shields.io/badge/LIVE_PROJECT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://skillora-hazel-six.vercel.app/)
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawaas/Skillora)
-### 02 — CALCORA
+<p>
+  <a href="https://skillora-hazel-six.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_PROJECT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fawaas/Skillora">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+### 02 — CALCORA®
 
 A modern collection of calculators and digital conversion utilities.
 
-[![Live Project](https://img.shields.io/badge/LIVE_PROJECT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://calcora.vercel.app/)
-[![GitHub](https://img.shields.io/badge/SOURCE_CODE-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawaas/Calcora)
+**Built with:** JavaScript · React
+
+<p>
+  <a href="https://calcora.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE_PROJECT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/fawaas/Calcora">
+    <img src="https://img.shields.io/badge/SOURCE_CODE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
-## GITHUB ACTIVITY
+<h2 align="center">04 / GITHUB ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-5-A78BFA?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/Developer-Open%20to%20Build-8B5CF6?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/REPOSITORIES-5-8B5CF6?style=for-the-badge&labelColor=111111"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_BUILD-8B5CF6?style=for-the-badge&labelColor=111111"/>
 </p>
 
 <p align="center">
@@ -77,7 +105,9 @@ A modern collection of calculators and digital conversion utilities.
 
 ---
 
-<p align="left">
+<h2 align="center">05 / LET'S CONNECT</h2>
+
+<p align="center">
   <a href="https://github.com/fawaas">
     <img src="https://img.shields.io/badge/GITHUB-18181B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -91,17 +121,15 @@ A modern collection of calculators and digital conversion utilities.
     <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<!--
-**fawaas/fawaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">THINK. CREATE. BUILD.</h3>
+
+<p align="center">
+  <i>Building digital experiences. One idea at a time.</i>
+</p>
+
+<p align="center">
+  © 2026 MOHD FAWAS®
+</p>
