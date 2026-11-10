@@ -1,4 +1,7 @@
 # MOHD FAWAS®
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Developer+%7C+Creative+Technologist;Building+Digital+Experiences;Turning+Ideas+Into+Products;Think.+Create.+Build." />
+</p>
 
 ### Developer · Creative Technologist · Digital Creator
 
